@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        icon=""
+        id="@+id/shoppingcart"
+        title="购物车" />
+    <tab
+        icon=""
+        id="@+id/mine"
+        title="我的" />
+</tabs>
